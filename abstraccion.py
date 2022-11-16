@@ -19,7 +19,7 @@ class Lavadora:
         print('Lavando la ropa...')
 
     def _centrifugar(self):
-        print('Centrifugando...')
+        print('Centrifugando la ropa...')
 
     
 if __name__ == '__main__':
